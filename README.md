@@ -1,6 +1,6 @@
 # Demonstration-tqdm
 
-This repository contains example material used by MegaGiga ASBL for the Python tqdm library demonstrations.
+This repository contains example material used by MegaGiga ASBL for Python tqdm library demonstrations.
 
 To install the tqdm library, use the following command:
 
@@ -18,7 +18,7 @@ Each file shows some of the possibilities of the tqdm library.
     tqdm_5_solution.py   Default tqdm with DESC parameter
     tqdm_6_solution.py   Default tqdm with COLOUR parameter
 
-More options for the tqdm function can be found at:
+More options for the tqdm function can be found on:
 
     https://tqdm.github.io/docs/tqdm/
 

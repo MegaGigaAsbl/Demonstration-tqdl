@@ -1,7 +1,7 @@
 #
-# Demonstration-tqdl
+# Demonstration-tqdm
 #
-# https://github.com/MegaGigaAsbl/Demonstration-tqdl/tree/main
+# https://github.com/MegaGigaAsbl/Demonstration-tqdm/tree/main
 #
 
 from time import sleep
