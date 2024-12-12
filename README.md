@@ -1,4 +1,4 @@
-# Demonstration-tqdl
+# Demonstration-tqdm
 
 This repository contains example material used by MegaGiga ASBL for the Python tqdm library demonstrations.
 
