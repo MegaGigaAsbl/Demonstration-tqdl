@@ -1,6 +1,6 @@
 # Demonstration-tqdl
 
-This repository contains example material used by MegaGiga ASBL for Python tqdm library demonstrations.
+This repository contains example material used by MegaGiga ASBL for the Python tqdm library demonstrations.
 
 To install the tqdm library, use the following command:
 
